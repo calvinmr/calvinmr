@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calvinmr
 - 👀 I’m interested in Next.js,React,Javascript,HTML,CSS,Vue,Saas,Mobile App Development,UI/UX design,Solution Architecture
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning www.jw.org
 - 💞️ I’m looking to collaborate on  AI projects
 - 📫 How to reach me calvinmrewa@gmail.com
 
